@@ -1,7 +1,7 @@
 ## Git Demo
 
 
-##Some other changes
+## Some other changes
 
 
 > Some content
